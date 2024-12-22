@@ -118,10 +118,3 @@ return false;
 }
 }
 
-}
-
-include"page.php";
-$user = new user;
-var_dump($user->activate("test",$user->details("test")['code']));
-
-print_r($user->error);
