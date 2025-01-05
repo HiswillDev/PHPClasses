@@ -1,5 +1,5 @@
 # PHP Classes
-PHP Classes: A Deep Dive
+PHP Classes:
 This repository is a collection of PHP classes designed to illustrate the power and flexibility of object-oriented programming in PHP.
 
 What you'll find here:
