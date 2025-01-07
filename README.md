@@ -1,5 +1,5 @@
 # PHP Classes
-[PHP Classes](https://php.hiws.eu.org/)
+[PHP Classes](https://classes.hiws.eu.org/)
 
 This repository is a collection of PHP classes designed to illustrate the power and flexibility of object-oriented programming in PHP.
 
